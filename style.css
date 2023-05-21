@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: Url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/School_exam_cheating.jpg/799px-School_exam_cheating.jpg?");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: transparent;
+    padding: 10px;
+    text-align: right;
+    
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #1a2944;
+    text-decoration: none;
+    padding: 10px 10px;
+
+  }
+  
+  nav ul li a:hover {
+    transition: background-color 0.6s ease;
+    background-color: #37e4be;
+  }
+  p{
+    font-size: 40px;
+    color: #1a2944;
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+    font-size: 80px;
+    color: #1a2944;
+  }
+
+  h3{
+    text-align: center;
+    font-size: 40px;
+    color: #1a2944;
+  }
+
+  header{
+    position: relative;
+    left: 1400px;
+  }
+
+  h5{
+    position: relative;
+    left: 1300px;
+    color: #1a2944;
+    font-size: 50px;
+  }
